@@ -139,3 +139,12 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+.idea/.gitignore
+.idea/Big_Data_Bowl_21.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+
+
+nfl-big-data-bowl-2021/
