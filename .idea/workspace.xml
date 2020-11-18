@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bca08375-72c5-4a3f-9da1-d45139f6d455" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/games_EDA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players_EDA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plays_EDA.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,6 +96,9 @@
       <module name="Big_Data_Bowl_21" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -129,6 +131,8 @@
       <workItem from="1604254598442" duration="1846000" />
       <workItem from="1605053465844" duration="1834000" />
       <workItem from="1605371609248" duration="5559000" />
+      <workItem from="1605632906714" duration="55000" />
+      <workItem from="1605655816696" duration="2964000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1604254767206</created>
